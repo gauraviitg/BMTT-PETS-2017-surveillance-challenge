@@ -1,4 +1,4 @@
-# Activity-detection-using-CNN-LSTM
+
 This repository is based on our CVPR paper:
 ["Abnormal Event Detection on BMTT-PETS 2017 Surveillance Challenge"](https://ieeexplore.ieee.org/document/8015002/#full-text-section)
 
